@@ -30,4 +30,9 @@ smile_code = st_ketcher(molecule)
 st.markdown(f"Smile code: ``{smile_code}``")
 #does not work in calab, can be opened as stanalone app via IFrame, not sure how to get the structure in colab
 
+Avogadro as a standalone molecular editor
+
+Ovito as a standalone molecular editor
+
+Kekule.js
 
